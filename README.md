@@ -1,5 +1,9 @@
 # DataStructures
 
+## Contents
+* [Abstract Data Types](#abstract-data-types)
+* [Search Algorithms](#search-algoritms)
+
 ## Abstract data types
 - Container
 - List
@@ -274,3 +278,7 @@ Graphs
 
     Binary decision diagram Directed acyclic graph Directed acyclic word graph 
 
+## Search Algorithms
+- [*] BubbleSort
+- [*] Recursive BubbleSort
+- [ ] QuickSort
