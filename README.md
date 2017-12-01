@@ -279,6 +279,6 @@ Graphs
     Binary decision diagram Directed acyclic graph Directed acyclic word graph 
 
 ## Search Algorithms
-- [*] BubbleSort
-- [*] Recursive BubbleSort
+- [x] BubbleSort
+- [x] Recursive BubbleSort
 - [ ] QuickSort
