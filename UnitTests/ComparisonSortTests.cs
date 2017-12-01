@@ -70,5 +70,12 @@ namespace UnitTests
 
             Assert.Equal(expectedOutput, output);
         }
+
+        [Fact]
+        public void TestRecursiveBubblesort() {
+            RecursiveBubbleSort.Sort(ref this.testInput, this.testInput.Count);
+
+            Assert.Equal(expectedOutput, this.testInput);
+        }
     }
 }
