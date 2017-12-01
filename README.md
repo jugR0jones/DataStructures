@@ -2,7 +2,7 @@
 
 ## Contents
 * [Abstract Data Types](#abstract-data-types)
-* [Search Algorithms](#search-algoritms)
+* [Search Algorithms](#search-algorithms)
 
 ## Abstract data types
 - Container
